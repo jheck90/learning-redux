@@ -4,5 +4,5 @@ export default function() {
         {title: 'Harry Potter'},
         {title: 'Dark tower'},
         {title: 'eloquent ruby'}
-    ]
+    ];
 }
